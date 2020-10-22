@@ -18,23 +18,23 @@ Merge Dataset into one dataframe:
 
 -The three dataframes are merged to form a single dataframe.
 -The newly created dataframe contains following fields:
-Store                
-Dept                 
-Date                 
-Weekly_Sales         
-IsHoliday            
-Temperature          
-Fuel_Price           
-MarkDown1       
-MarkDown2       
-MarkDown3       
-MarkDown4       
-MarkDown5       
-CPI                  
-Unemployment         
-Type                 
-Size                 
-month                
+    Store                
+    Dept                 
+    Date                 
+    Weekly_Sales         
+    IsHoliday            
+    Temperature          
+    Fuel_Price           
+    MarkDown1       
+    MarkDown2       
+    MarkDown3       
+    MarkDown4       
+    MarkDown5       
+    CPI                  
+    Unemployment         
+    Type                 
+    Size                 
+    month                
 
 - The NaN values are replaced with zeros.
 - Checked the duplicated entries in the dataframe.
