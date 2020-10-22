@@ -64,19 +64,28 @@ Model Implementation:
     The result otained is as follows:
     
     Accuracy : 0.8220456771239986
+    
     RMSE = 9622.919 
+    
     MSE = 92600580.0 
+    
     MAE = 6404.524 
+    
     R2 = 0.8220456771239986 
+    
     Adjusted R2 = 0.8212655476231603
 
 2. XGBoost Regressor using SageMaker
    The result otained is as follows:
    
    RMSE = 7141.338 
+   
    MSE = 50998708.0 
+   
    MAE = 4271.1924 
+   
    R2 = 0.8986535169832639 
+   
    Adjusted R2 = 0.8982092266736509
 
 Result:
