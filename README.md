@@ -18,6 +18,7 @@ Merge Dataset into one dataframe:
 
 -The three dataframes are merged to form a single dataframe.
 -The newly created dataframe contains following fields:
+
     Store                
     Dept                 
     Date                 
